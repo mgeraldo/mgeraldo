@@ -24,7 +24,7 @@ My career has been focused on driving tangible business impact through data. Her
 
 I combine a strong technical background with strategic leadership to build high-performing teams and execute transformative analytics projects.
 
-* **Languages:** Python, SQL
+* **Languages:** Python, SQL, R
 * **Libraries & Frameworks:** Pandas, TensorFlow, PyTorch, scikit-learn, Matplotlib
 * **Leadership:** Team Building, Project Management, Strategic Decision-Making, Fostering Data-Centric Cultures
 
@@ -35,6 +35,8 @@ I combine a strong technical background with strategic leadership to build high-
 Here are a few examples of my work that showcase my skills in action. Each project includes detailed documentation on my methodology, results, and code.
 
 * **Crypto Sentiment Analysis:** An analysis project focused on leveraging NLP to understand sentiment in cryptocurrency markets.
+* **Skin Cancer Detection:** A comparison of 6 models that combine features learned by Convolutional Neural Networks and handcrafted features for the specific task.
+* **ROI of Real Estate Investments:** A model that collects data from the housing market and uses it to predict the ROI of improvements or expansions.  
 * **More projects coming soon!** Stay tuned for more examples of my work.
 
 ---
