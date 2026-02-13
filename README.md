@@ -34,6 +34,7 @@ I combine a strong technical background with strategic leadership to build high-
 
 Here are a few examples of my work that showcase my skills in action. Each project includes detailed documentation on my methodology, results, and code.
 
+* **AI Fitness Assistant:** Capstone Project - UC BErkeley. Web App that provides a complete fitness plan, including a workout plan, a meal plan, recipes for the week, and a complete grocery shopping list. It uses a combination of technologies, including LLMs, RAG, Flask, Vector DB, and Relational DBs, working in Docker Containers and communicating through APIs.   
 * **Crypto Sentiment Analysis:** An analysis project focused on leveraging NLP to understand sentiment in cryptocurrency markets.
 * **Skin Cancer Detection:** A comparison of 6 models that combine features learned by Convolutional Neural Networks and handcrafted features for the specific task.
 * **ROI of Real Estate Investments:** A model that collects data from the housing market and uses it to predict the ROI of improvements or expansions.  
